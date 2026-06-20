@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/SaveVault">
-    <file alias="qmldir">E:/SaveVault/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/SaveVault/qmldir</file>
-  </qresource>
-</RCC>
-

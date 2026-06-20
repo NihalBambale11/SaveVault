@@ -1,5 +1,0 @@
-module SaveVault
-typeinfo appSaveVault.qmltypes
-prefer :/qt/qml/SaveVault/
-Main 1.0 Main.qml
-

@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/SaveVault/">
-    <file alias="Main.qml">E:/SaveVault/Main.qml</file>
-  </qresource>
-</RCC>
-
