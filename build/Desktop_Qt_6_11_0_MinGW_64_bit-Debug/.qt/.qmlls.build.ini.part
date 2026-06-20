@@ -1,0 +1,3 @@
+[E:<SLASH>SaveVault]
+importPaths="E:/SaveVault/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug;E:/SaveVault/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/SaveVault;C:/Qt/6.11.0/mingw_64/qml"
+resourceFiles="E:/SaveVault/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qmake_SaveVault.qrc;E:/SaveVault/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/appSaveVault_raw_qml_0.qrc"

@@ -1,0 +1,9 @@
+// This file is for local settings only and will not be cloud synchronized
+configVersion 7
+r_shadowsDistanceFadeMultiplier "1"
+vt_pageImageSizeUnique "4096"
+vt_pageImageSizeVmtr "4096"
+r_renderAPI "0"
+r_mode "7"
+r_physicalPagesAspectRatio "2"
+r_vmtrPhysicalPagesAspectRatio "2"

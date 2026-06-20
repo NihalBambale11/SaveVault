@@ -1,0 +1,12 @@
+# Qt build folders
+build/
+build-*/
+*.user
+
+# Database and Backup Vaults
+vault_metadata.db
+Backups/
+
+# OS generated files
+.DS_Store
+Thumbs.db

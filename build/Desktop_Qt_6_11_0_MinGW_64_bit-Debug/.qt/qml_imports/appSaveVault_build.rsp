@@ -1,0 +1,14 @@
+-rootPath
+E:/SaveVault
+-cmake-output
+-output-file
+E:/SaveVault/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/qml_imports/appSaveVault_build.cmake
+-importPath
+E:/SaveVault/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug
+-importPath
+E:/SaveVault/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/SaveVault
+-importPath
+C:/Qt/6.11.0/mingw_64/qml
+-qrcFiles
+E:/SaveVault/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qmake_SaveVault.qrc
+E:/SaveVault/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/appSaveVault_raw_qml_0.qrc
